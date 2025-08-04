@@ -1,4 +1,4 @@
-# Coding Test
+# Coding Test(JavaScript)
 
 ## Description
 javascript를 사용하여 algorithm 문제를 풀이

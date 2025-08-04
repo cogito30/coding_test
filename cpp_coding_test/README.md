@@ -1,4 +1,4 @@
-# Coding Test
+# Coding Test(C++)s
 
 ## Description
 c++을 사용하여 algorithm 문제를 풀이

@@ -1,4 +1,4 @@
-# Coding Test(SQL)
+# Coding Test(MYSQL)
 
 ## Description
 SQL을 사용하여 문제 풀이

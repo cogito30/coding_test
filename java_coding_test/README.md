@@ -1,4 +1,4 @@
-# Coding Test
+# Coding Test(Java)
 
 ## Description
 java를 사용하여 algorithm 문제를 풀이
@@ -12,7 +12,7 @@ java를 사용하여 algorithm 문제를 풀이
 #### [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
 - Lv0(): 1/240문제
 - Lv1(): 0/86문제
-- Lv2(): 0/115문제
+- Lv2(2025.08.05-): 2/115문제
 - Lv3(): 0/81문제
 - Lv4(): 0/27문제
 - Lv5(): 0/19문제
