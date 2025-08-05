@@ -25,5 +25,4 @@ git clone https://github.com/cogito30/coding_test.git
 ## Current Status
 
 #### Coding Test(Java)
-(Programmers: Lv2)
-- 기간: 2025.08.04 - 
+- Programmers(Lv2): 2025.08.04 - 
